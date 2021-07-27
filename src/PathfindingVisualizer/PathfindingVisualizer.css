@@ -1,0 +1,46 @@
+.grid-container {
+  margin: 50px auto !important;
+  margin-bottom: -100px !important;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin: 2px;
+}
+
+.btn {
+  margin-top: 25px;
+  margin-bottom: -20px;
+}
+
+.card {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 25px;
+}
+
+#legend {
+  right: 0;
+  margin-right: 25px;
+}
+
+@media only screen and (max-width: 1500px) {
+  .card {
+    display: none;
+  }
+}
+
+.legend-row {
+  display: flex;
+}
+
+.legend-square {
+  font-size: 24px;
+}
+
+.legend-p {
+  margin-top: 5px;
+}
