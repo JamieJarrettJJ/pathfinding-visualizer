@@ -488,13 +488,13 @@ export default class PathfindingVisualizer extends Component {
               <div style={{ color: "green" }} class="legend-square">
                 &#9632;
               </div>
-              <p class="legend-p"> = Start Node</p>
+              <p class="legend-p"> = Start Node (Click and drag)</p>
             </div>
             <div class="legend-row">
               <div style={{ color: "red" }} class="legend-square">
                 &#9632;
               </div>
-              <p class="legend-p"> = End Node</p>
+              <p class="legend-p"> = End Node (Click and drag)</p>
             </div>
             <div class="legend-row">
               <div style={{ color: "rgb(12, 53, 71)" }} class="legend-square">
