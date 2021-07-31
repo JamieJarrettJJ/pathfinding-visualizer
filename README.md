@@ -12,4 +12,6 @@ Graphical User Interface built using React Framework to visualize Pathfinding Al
 5. Bogo Spread
 6. Random Spread
 
+![Pathfinding Visualizer](https://i.imgur.com/KvrYsSW.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app "Create React App"). To learn React, check out the [React Documentation](https://reactjs.org/docs/getting-started.html "React Documentation").
